@@ -1,0 +1,14 @@
+@font-face{
+    font-family: futura-Bold;
+    src: url(fuentes/futura.otf);
+}
+
+@font-face{
+    font-family: BrandonGrotW01-Regular;
+    src: url(fuentes/Brandon-regular.ttf);
+}
+
+@font-face{
+    font-family: BrandonGrotW01-Bold;
+    src: url(fuentes/Brandon-bold.ttf);
+}
